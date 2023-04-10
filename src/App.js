@@ -11,6 +11,7 @@ function App() {
         </p>
         <p>home page/p>
         <p>new develop text</p>
+        <p>javascript</p>
         <a
           className="App-link"
           href="https://reactjs.org"
